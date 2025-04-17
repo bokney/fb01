@@ -1,0 +1,7 @@
+
+build/
+third_party/unity/
+
+*venv/
+.vscode/
+*DS_Store
